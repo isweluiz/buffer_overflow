@@ -4,7 +4,7 @@
 int main (int argc, char*argv[])
 {
 	int naoacessa = 0; 
-	char buff[8]
+	char buff[8];
 	
 	strcpy(buff, argv[1]);
 	
