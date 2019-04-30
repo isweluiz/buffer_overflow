@@ -3,7 +3,6 @@
 
  ```
 [root@0xmachine scripts]# gcc  buff-basic-n_acessa.c -o buffer
-
 [root@0xmachine scripts]# ./buffer
 buffer           buffer-overflow
 [root@oxmachine scripts]# ./buffer 123000001
